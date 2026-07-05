@@ -31,3 +31,17 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Docker
+.docker/
+
+# SSH
+.ssh/
+
+# Linux
+.bash_history
+.viminfo
+
+# Zip files
+*.zip
+.lesshst
